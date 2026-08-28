@@ -1,50 +1,62 @@
 # JavaDevelopment
-SkillCraft Technology – Java Development Internship
+#SkillCraft Technology – Java Development Internship
+
 This repository contains the Java programming tasks completed as part of my SkillCraft Technology Java Development Internship.
 
 The tasks cover fundamental Java programming, problem-solving, algorithms, and web scraping.
 🗂️ Tasks Overview
 
-Task
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SkillCraft Technology Tasks</title>
+</head>
+<body>
 
-Project
+    <h2>SkillCraft Technology - Java Development Internship</h2>
 
-Description
+    <table border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <th>Task</th>
+            <th>Project</th>
+            <th>Description</th>
+            <th>Technologies</th>
+        </tr>
 
-Technologies
+        <tr>
+            <td>Task 01</td>
+            <td>Temperature Converter</td>
+            <td>Converts temperatures between Celsius, Fahrenheit, and Kelvin scales.</td>
+            <td>Java</td>
+        </tr>
 
-Task 01
+        <tr>
+            <td>Task 02</td>
+            <td>Number Guessing Game</td>
+            <td>Generates a random number and challenges the user to guess it.</td>
+            <td>Java</td>
+        </tr>
 
-Temperature Converter
+        <tr>
+            <td>Task 03</td>
+            <td>Sudoku Solver</td>
+            <td>Automatically solves an unsolved Sudoku puzzle using an algorithm.</td>
+            <td>Java, Backtracking</td>
+        </tr>
 
-Converts temperatures between Celsius, Fahrenheit, and Kelvin scales.
+        <tr>
+            <td>Task 04</td>
+            <td>E-commerce Product Scraper</td>
+            <td>Extracts product names, prices, and ratings from an online e-commerce website and stores them in a CSV file.</td>
+            <td>Java, Maven, Jsoup, OpenCSV</td>
+        </tr>
 
-Java
+    </table>
 
-Task 02
+</body>
+</html>
 
-Number Guessing Game
-
-Generates a random number and challenges the user to guess it.
-
-Java
-
-Task 03
-
-Sudoku Solver
-
-Automatically solves an unsolved Sudoku puzzle using an algorithm.
-
-Java, Backtracking
-
-Task 04
-
-E-commerce Product Scraper
-
-Extracts product names, prices, and ratings from an online e-commerce website and stores them in a CSV file.
-
-Java, Maven, Jsoup, OpenCSV
-Task 01 – Temperature Converter
+#Task 01 – Temperature Converter
 
 📋 Description
 
@@ -87,7 +99,7 @@ Arithmetic operators
 Conditional statements
 
 Methods
- Task 02 – Number Guessing Game
+#Task 02 – Number Guessing Game
 
 📋 Description
 
@@ -127,7 +139,8 @@ Too low!
 
 Guess the number: 37
 Congratulations! You guessed the correct number.
-Task 03 – Sudoku Solver
+
+#Task 03 – Sudoku Solver
 
 📋 Description
 
@@ -170,7 +183,8 @@ Conditional statements
 Problem-solving
 
 Algorithms
-Task 04 – E-commerce Product Scraper
+
+#Task 04 – E-commerce Product Scraper
 
 📋 Description
 
@@ -349,8 +363,8 @@ The extracted data is displayed in the console.
 
 products.csv is created.
 
-Author
+#Author
 
-Suchithra
+Gopavaram Suchithra.
 
 Java Development Intern – SkillCraft Technology
