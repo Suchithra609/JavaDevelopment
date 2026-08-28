@@ -6,55 +6,12 @@ This repository contains the Java programming tasks completed as part of my Skil
 The tasks cover fundamental Java programming, problem-solving, algorithms, and web scraping.
 🗂️ Tasks Overview
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>SkillCraft Technology Tasks</title>
-</head>
-<body>
-
-    <h2>SkillCraft Technology - Java Development Internship</h2>
-
-    <table border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <th>Task</th>
-            <th>Project</th>
-            <th>Description</th>
-            <th>Technologies</th>
-        </tr>
-
-        <tr>
-            <td>Task 01</td>
-            <td>Temperature Converter</td>
-            <td>Converts temperatures between Celsius, Fahrenheit, and Kelvin scales.</td>
-            <td>Java</td>
-        </tr>
-
-        <tr>
-            <td>Task 02</td>
-            <td>Number Guessing Game</td>
-            <td>Generates a random number and challenges the user to guess it.</td>
-            <td>Java</td>
-        </tr>
-
-        <tr>
-            <td>Task 03</td>
-            <td>Sudoku Solver</td>
-            <td>Automatically solves an unsolved Sudoku puzzle using an algorithm.</td>
-            <td>Java, Backtracking</td>
-        </tr>
-
-        <tr>
-            <td>Task 04</td>
-            <td>E-commerce Product Scraper</td>
-            <td>Extracts product names, prices, and ratings from an online e-commerce website and stores them in a CSV file.</td>
-            <td>Java, Maven, Jsoup, OpenCSV</td>
-        </tr>
-
-    </table>
-
-</body>
-</html>
+| **Task**    | **Project**                    | **Description**                                                                                              | **Technologies**            |
+| ----------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| **Task 01** | **Temperature Converter**      | Converts temperatures between Celsius, Fahrenheit, and Kelvin scales.                                        | Java                        |
+| **Task 02** | **Number Guessing Game**       | Generates a random number and challenges the user to guess it.                                               | Java                        |
+| **Task 03** | **Sudoku Solver**              | Automatically solves an unsolved Sudoku puzzle using an algorithm.                                           | Java, Backtracking          |
+| **Task 04** | **E-commerce Product Scraper** | Extracts product names, prices, and ratings from an online e-commerce website and stores them in a CSV file. | Java, Maven, Jsoup, OpenCSV |
 
 #Task 01 – Temperature Converter
 
