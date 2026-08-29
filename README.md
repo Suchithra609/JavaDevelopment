@@ -913,5 +913,3 @@ The experience gained through these tasks provides a strong foundation for devel
 This repository contains the projects and tasks completed as part of my internship.
 
 ---
-
-```
