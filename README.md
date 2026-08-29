@@ -490,7 +490,6 @@ products.csv
 | Jsoup      | HTML parsing and web scraping     |
 | OpenCSV    | CSV file generation               |
 | Eclipse    | Development environment           |
-| Git/GitHub | Version control                   |
 
 ---
 
@@ -596,37 +595,6 @@ Responsibilities:
 * Write column headers.
 * Write product information.
 * Save the final dataset.
-
----
-
-# 📦 Maven Dependencies
-
-The project uses Maven to manage external libraries.
-
-The important dependencies are:
-
-### Jsoup
-
-Used for:
-
-* Connecting to websites.
-* Downloading HTML.
-* Parsing HTML.
-* Selecting elements.
-
-### OpenCSV
-
-Used for:
-
-* Creating CSV files.
-* Writing structured data.
-* Handling CSV records.
-
-The dependencies are configured inside:
-
-```text
-pom.xml
-```
 
 ---
 
@@ -856,7 +824,6 @@ Test cases include:
 
 ---
 
----
 
 # 📈 Project Highlights
 
